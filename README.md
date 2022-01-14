@@ -1,5 +1,7 @@
-Blog Server, API constructed with REST principles.
+# Sample Blog. Designed based on Medium.com. All rights reserved.
 
-Separation of front and back end.
+Backend constructed with Node/Express. API designed with REST principles.
 
-Designed based on Medium. All rights reserved.
+Front end constructed with ReactJS.
+
+Application fully separates front and backend.
